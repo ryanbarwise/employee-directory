@@ -11,7 +11,7 @@ return (
         </td>
         <td>{name}</td>
         <td>{dob}</td>
-    <td>{gender}</td>
+        <td>{gender}</td>
         <td>{email}</td>
         <td>{phone}</td>
     </tr>
