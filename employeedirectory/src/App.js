@@ -63,7 +63,7 @@ class App extends Component {
           </div>
         </div>
 
-        <input placeholder="search by name" />
+        {/* <input placeholder="search by name" /> */}
         {/* after input working, go through unfilteredEmployees to filter criteria */}
         <Table filteredEmployees={this.state.filteredEmployees || []} />
       </div>
